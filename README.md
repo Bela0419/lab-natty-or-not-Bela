@@ -20,19 +20,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto Sobrecarga materna em maes divorciadas
 
-## 📒 Descrição
-Breve descrição do seu projeto
+## 📒 A sobrecarga materna em maes divorciadas
+A quem serve a sobrecarga materna, porque ela se perpetua, porque tantas mulheres defendem a volta ao lar
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Gemini, Chapgpt, http://www.seer.ufsj.edu.br/revista_ppp/article/view/3708
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Busca de conteúdo disponivel online
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado é o debate de ideias, já que nao houve produção de conteúdo científico.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
